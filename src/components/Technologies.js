@@ -10,14 +10,14 @@ function Technologies() {
         <TechnologyCard
           title="ZK zkbp"
           description="Allows to prove your business process execution  without revealing details."
-          icon="🟩"
+          
         >
           <p>Prove your Businss Processes</p>
         </TechnologyCard>
         <TechnologyCard
           title="Recursive proofs"
           description="Layered , Composed and Recurive Proofs for Business Scalabiltiy."
-          icon="🔵"
+          
           isCenter
         >
           <p>Game state proof</p>
